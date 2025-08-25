@@ -10,8 +10,9 @@ namespace Relamparin13
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Relamparin es el mejor perro de los perros");
+            Console.WriteLine("Relamparin es el pto amo canino");
             Console.WriteLine("El respetado rey de los perros");
+            Console.WriteLine("los gatos no intimidan");
         }
     }
 }
